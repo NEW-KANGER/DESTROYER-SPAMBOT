@@ -658,11 +658,11 @@ async def _(e):
         Destroyer = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)     
         if len(e.text) > 5:
             bio = str(Destroyer[0])
-            text = "KRR RHAA HU 😉"
+            text = "RUK KAR RAHA"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.account.UpdateProfileRequest(about=bio))
-                await event.edit("HO GYA BHAI YARR🤑")
+                await event.edit("HOGAYA VAI")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -696,11 +696,11 @@ async def _(e):
         Destroyer = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = Destroyer[0]
-            text = "DESTROYER IS ON WAY........"
+            text = "JOIN HO RAHA"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("DESTROYER JOINED....")
+                await event.edit("JOIN HOGAYA VAI")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -733,17 +733,17 @@ async def _(e):
         Destroyer = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
             bc = Destroyer[0]
-            text = "DESTROYER IS ON WAY........"
+            text = "JOIN HO RAHA"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("DESTROYER JOINED.... ")
+                await event.edit("JOIN HOGAYA VAI")
             except Exception as e:
                 await event.edit(str(e))   
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
-            
-            
+
+                        
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
 @wdk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
@@ -772,11 +772,11 @@ async def _(e):
         if len(e.text) == 7:
             bc = Destroyer[0]
             bc = int(bc)
-            text = "DESTROYER Leaving....."
+            text = "LEVING KIDZ GROUP...."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("DESTROYER GONE.....")
+                await event.edit("LEFT SUCCESFULLY...")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1218,7 +1218,7 @@ async def ping(e):
         
 async def restart(e):
     if e.sender_id in SMEX_USERS:
-        text = "𝙍𝙚𝙨𝙩𝙖𝙧𝙩𝙚𝙙\n\nPlease wait till DESTROYER came online again....."
+        text = "𝙍𝙚𝙨𝙩𝙖𝙧𝙩𝙚𝙙\n\nPlease wait till i come online again....."
         await e.reply(text, parse_mode=None, link_preview=None )
         try:
             await idk.disconnect()
