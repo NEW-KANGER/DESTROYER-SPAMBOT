@@ -1,13 +1,12 @@
 <h1 align="center">
-  <b>₮Ɇ₳₥ ĐɆ₴₮ⱤØɎɆⱤ </b>
+  <b>DEAD SPAMMERS </b>
 </h1>
 
 ------
-<h3>CREATERS</h3>
+<h3>CREATER</h3>
 
-[『〔𝘼𝙏 𝙒𝙊𝙍𝙇𝘿𝙎 𝙀𝙉𝘿 🇮🇳〕』#𝘽𝙇𝘼𝘾𝙆𝙇𝙄𝙎𝙏](https://t.me/AT_W0RLDS_END)
+[ {OFFLINE} InnOcent Girl✓](https://t.me/Girl_Is_Innocent)
 
-[🇮🇳『 𝗨 𝗝 𝗝 𝗪 𝗔 𝗟 』🇮🇳 ♕ • 𝗗 𝗘 𝗦 𝗧 𝗥 𝗢 𝗬 𝗘 𝗥 • ♕ 『 𝗢 𝗪 𝗡 𝗘 𝗥 』](https://t.me/D3S7R0Y3R_K1NG)
 
 ------
 
@@ -17,19 +16,14 @@
   
   ------
   <p align="center" length="100" breadth="100" border="5">
-  <img src="https://telegra.ph/file/86a0d28de28ea831cd508.jpg">
+  <img src="https://telegra.ph/file/0e7a39f5f3d1abcb6d879.jpg">
 </p>
 ..
-
-
-## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/TEAM_DESTROYER_ON_STRICK)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/DESTROYER_SPAMBOT)
   
   
 ------
 ## Deploy To Heroku
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AT-WORLDS-END/DESTROYER-SPAMBOT)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NEW-KANGER/Deadly-Spam)
 - PLEASE NOTE IT CAREFULLY , 1] SUDO HANDLER FOR FIRST 10 STRINGS IS `.` 2] SUDO HANDLER FOR LAST 10 STRINGS IS `*`
 
 ------
